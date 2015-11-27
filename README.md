@@ -9,4 +9,7 @@ Simple "Did You Know"-type image generator
 1. Launch *main.py*  (`python2 main.py`)
 2. Enter the path to the background image. You must enter the **complete path** if the image is not in the same directory as *main.py*.
 3. Enter the level at which you want the image to be darkened. **1 is light, 0 is black**. Choose any value in between and adjust to your preference.
-4. Enter the name of the destination file. This file will be save in the `output/` directory
+4. Enter the name of the destination file. This file will be saved in the `output/` directory
+
+##Example output
+![Example output](https://raw.githubusercontent.com/mrsendova/didyouknow/master/example_output.png)
